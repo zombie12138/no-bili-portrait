@@ -20,12 +20,12 @@ Instead of sending portrait videos to the vertical Story feed, this module opens
 
 ## Installation and compatibility
 
-Before installing, make sure your Android device is rooted and has a framework compatible with the legacy Xposed API. LSPosed 2.x is recommended ([download](https://lsposed.zip)); this module has been tested with LSPosed 2.1.1 (7790). Other frameworks compatible with the legacy Xposed API, such as [Vector](https://github.com/JingMatrix/Vector), have not yet been tested on a device.
+Before installing, make sure your Android device is rooted and has a framework compatible with the legacy Xposed API. LSPosed 2.x is recommended ([download](https://lsposed.zip)).
 
 Bilibili version compatibility:
 
-- Standard app `tv.danmaku.bili`: tested with 8.60.0 and 8.97.0.
-- Other 8.x versions: may work, but have not been tested individually.
+- Standard app `tv.danmaku.bili`: tested with 8.60.0, 8.97.0 and 9.13.0.
+- Other versions: may work, but have not been tested individually.
 - International app `com.bilibili.app.in`: included in the default scope, but not yet tested.
 
 Installation steps:

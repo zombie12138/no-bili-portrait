@@ -20,12 +20,12 @@
 
 ## 安装与兼容性
 
-开始前，请确认设备已经 Root，并已安装支持传统 Xposed API 的框架。推荐使用 LSPosed 2.x（[下载链接](https://lsposed.zip)），本模块已在 LSPosed 2.1.1（7790）上验证。其他兼容传统 Xposed API 的框架，例如 [Vector](https://github.com/JingMatrix/Vector)，目前尚未完成真机验证。
+开始前，请确认设备已经 Root，并已安装支持传统 Xposed API 的框架。推荐使用 LSPosed 2.x（[下载链接](https://lsposed.zip)）。
 
 哔哩哔哩版本支持情况：
 
-- 标准版 `tv.danmaku.bili`：已验证 8.60.0、8.97.0。
-- 其他 8.x 版本：可能兼容，但未逐版本验证。
+- 标准版 `tv.danmaku.bili`：已验证 8.60.0、8.97.0、9.13.0。
+- 其他版本：可能兼容，但未逐版本验证。
 - 国际版 `com.bilibili.app.in`：已提供作用域支持，但尚未测试。
 
 安装步骤：
